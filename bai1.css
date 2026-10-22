@@ -1,0 +1,31 @@
+.container{
+    background-color: #FFFDE7;
+    border: #9E9E9E;
+    padding: 20px;
+    width: 650px;
+    text-align: center;
+}
+.title{
+    color: #D40000;
+    background-color: #FFD9E6;
+    font-weight: bold;
+    font-size: 30px;
+    padding: 10px;
+}
+.kho1-3{
+    line-height: 1.5;
+    font-style: italic;
+}
+.kho1{
+    color:#0033CC;
+}
+.kho2{
+    color:#D40000;
+}
+.kho3{
+    color:#0033CC;
+}
+hr{
+    width:55%;
+    margin: 20px auto;
+}

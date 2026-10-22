@@ -1,0 +1,32 @@
+body{
+    margin:0;
+    padding:0;
+    min-height: 100vh;
+    background:linear-gradient(to bottom, #C9A227,#A8861B)
+}
+.container{
+    max-width: 800px;
+    margin:0 auto;
+    padding:20px;
+}
+.title{
+    color:#FFFFFF;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+    font-size:24px;
+    margin-bottom: 30px;
+}
+.anh123{
+    float:right;
+    width:200px;
+    margin-left:20px;
+    margin-bottom:10px;
+    border: 2px solid rgba(255,255,255,0.8);
+}
+p{
+    color: #FFFFFF;
+    text-align: justyfy;
+    line-height: 1.5;
+    margin-bottom: 15px;
+    font-size:16px;
+}
